@@ -1,1 +1,2 @@
 # Test_sample
+githubの使い方を勉強するためのリポジトリです
